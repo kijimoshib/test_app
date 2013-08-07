@@ -32,7 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'git-pivotal-tracker-integration', '>=1.5.0', path: '~/Developer/git-pivotal-tracker-integration'
+gem 'git-tracker', '>=0.0.1', path: '~/Developer/git-tracker'
 
 gem 'pry'
 

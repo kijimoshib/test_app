@@ -1,7 +1,7 @@
 PATH
-  remote: ~/Developer/git-pivotal-tracker-integration
+  remote: ~/Developer/git-tracker
   specs:
-    git-pivotal-tracker-integration (1.5.2)
+    git-tracker (0.0.1)
       highline (~> 1.6)
       json (~> 1.8.0)
       pivotal-tracker (~> 0.5)
@@ -149,7 +149,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
-  git-pivotal-tracker-integration (>= 1.5.0)!
+  git-tracker (>= 0.0.1)!
   jbuilder (~> 1.2)
   jquery-rails
   pry
